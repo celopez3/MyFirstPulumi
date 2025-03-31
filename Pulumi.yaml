@@ -1,0 +1,7 @@
+name: quickstart
+description: A minimal Google Cloud C# Pulumi program
+runtime: dotnet
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: gcp-csharp
