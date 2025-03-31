@@ -15,7 +15,7 @@ This project is in C# and will require
     3. Google CLI
     4. Google Cloud <project-id>
 
-Once you have installed the clients, you will need to make sure you have your Google Cloud Project ID. If you're new to Pulumi I would recommend reading my [article](https://dev.to/celopez3/using-pulumi-for-rapid-deployment) on Dev.to which covers the basic installation experience or you can get it straight from [Pulumi](https://www.pulumi.com/docs/iac/get-started/gcp/).
+Once you have installed the clients, you will need to make sure you have your Google Cloud Project ID. If you're new to Pulumi I would recommend reading my [article](https://dev.to/celopez3/using-pulumi-for-rapid-deployment-5d95) on Dev.to which covers the basic installation experience or you can get it straight from [Pulumi](https://www.pulumi.com/docs/iac/get-started/gcp/).
 
 ```bash
 git clone https://github.com/celopez3/MyFirstPulumi.git
